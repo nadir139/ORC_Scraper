@@ -1,0 +1,1043 @@
+{
+  "certificate_type": {
+    "certificate_type": "Club Certificate",
+    "year": "2021"
+  },
+  "boatname_sailn": {
+    "boat_name": "2021",
+    "sail_number": ""
+  },
+  "right_column": {
+    "summary_top": {},
+    "groups": [
+      {
+        "title": "BOAT",
+        "items": [
+          {
+            "label": "Class",
+            "value": "Noelex 30"
+          },
+          {
+            "label": "Designer",
+            "value": "Farr"
+          },
+          {
+            "label": "Builder",
+            "value": "Marten Marine"
+          },
+          {
+            "label": "Age date",
+            "value": "01/1986"
+          },
+          {
+            "label": "Series date",
+            "value": "01/1986"
+          },
+          {
+            "label": "Offset file",
+            "value": "NOLEX30.OFF"
+          },
+          {
+            "label": "Data file",
+            "value": "4003"
+          }
+        ]
+      },
+      {
+        "title": "HULL",
+        "items": [
+          {
+            "label": "Length Overall",
+            "value": "9.410Â m"
+          },
+          {
+            "label": "Maximum Beam",
+            "value": "2.940Â m"
+          },
+          {
+            "label": "Draft",
+            "value": "1.898Â m"
+          },
+          {
+            "label": "Displacement",
+            "value": "2,175Â kg"
+          },
+          {
+            "label": "DLR",
+            "value": ""
+          },
+          {
+            "label": "IMS Division",
+            "value": "Cruiser/Racer"
+          },
+          {
+            "label": "Dynamic Allowance",
+            "value": "0.003%"
+          },
+          {
+            "label": "Age Allowance",
+            "value": "0.487%"
+          }
+        ]
+      },
+      {
+        "title": "PROPELLER",
+        "items": [
+          {
+            "label": "Installation",
+            "value": "Strut"
+          },
+          {
+            "label": "Type",
+            "value": "Folding 2 blades"
+          },
+          {
+            "label": "Diameter",
+            "value": "0.380m"
+          }
+        ]
+      },
+      {
+        "title": "CREW",
+        "items": [
+          {
+            "label": "Maximum weight",
+            "value": "420Â kg"
+          },
+          {
+            "label": "Minimum weight",
+            "value": "315Â kg"
+          },
+          {
+            "label": "Non Manual Power",
+            "value": "No"
+          },
+          {
+            "label": "Crew Arm Extension",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "title": "SAIL AREAS(mÂ²)",
+        "items": [
+          {
+            "label": "Mainsail",
+            "value": "28.61"
+          },
+          {
+            "label": "Headsail Luffed",
+            "value": "29.55"
+          },
+          {
+            "label": "Headsail Flying",
+            "value": "20.07"
+          },
+          {
+            "label": "Symmetric",
+            "value": "20.07"
+          },
+          {
+            "label": "Asymmetric",
+            "value": "53.88"
+          }
+        ]
+      },
+      {
+        "title": "STORM SAIL AREAS(mÂ²)",
+        "items": [
+          {
+            "label": "Trysail",
+            "value": "8.09"
+          },
+          {
+            "label": "Storm Jib",
+            "value": "4.09"
+          },
+          {
+            "label": "Heavy Weather Jib",
+            "value": "11.04"
+          }
+        ]
+      },
+      {
+        "title": "SAIL LIMITS",
+        "items": [
+          {
+            "label": "Headsails",
+            "value": "5"
+          },
+          {
+            "label": "Spinnakers",
+            "value": "4"
+          }
+        ]
+      },
+      {
+        "title": "STABILITY",
+        "items": [
+          {
+            "label": "Righting Moment",
+            "value": "56.3Â kgÂ·m"
+          },
+          {
+            "label": "Stability Index",
+            "value": "N/A"
+          }
+        ]
+      },
+      {
+        "title": "No title",
+        "items": [
+          {
+            "label": "Comment",
+            "value": "The owner and any other person in charge is responsible that boat is complying with her certificate in accordance with RRS 78.1 and\nORC Rule 304."
+          }
+        ]
+      }
+    ]
+  },
+  "boatspeeds_table": {
+    "wind_speeds": [
+      "6 kt",
+      "8 kt",
+      "10 kt",
+      "12 kt",
+      "14 kt",
+      "16 kt",
+      "20 kt"
+    ],
+    "rows": [
+      {
+        "label": "Beat Angles",
+        "values": [
+          "42.0Â°",
+          "40.9Â°",
+          "38.6Â°",
+          "37.5Â°",
+          "37.1Â°",
+          "37.1Â°",
+          "37.9Â°"
+        ]
+      },
+      {
+        "label": "Beat VMG",
+        "values": [
+          "3.46",
+          "4.20",
+          "4.71",
+          "4.89",
+          "4.96",
+          "4.98",
+          "4.98"
+        ]
+      },
+      {
+        "label": "52Â°",
+        "values": [
+          "5.23",
+          "6.20",
+          "6.65",
+          "6.80",
+          "6.87",
+          "6.91",
+          "6.97"
+        ]
+      },
+      {
+        "label": "60Â°",
+        "values": [
+          "5.54",
+          "6.40",
+          "6.80",
+          "7.00",
+          "7.10",
+          "7.15",
+          "7.25"
+        ]
+      },
+      {
+        "label": "75Â°",
+        "values": [
+          "5.78",
+          "6.54",
+          "6.93",
+          "7.27",
+          "7.50",
+          "7.63",
+          "7.73"
+        ]
+      },
+      {
+        "label": "90Â°",
+        "values": [
+          "5.71",
+          "6.63",
+          "7.10",
+          "7.38",
+          "7.77",
+          "8.11",
+          "8.41"
+        ]
+      },
+      {
+        "label": "110Â°",
+        "values": [
+          "5.66",
+          "6.64",
+          "7.19",
+          "7.76",
+          "8.30",
+          "8.66",
+          "9.31"
+        ]
+      },
+      {
+        "label": "120Â°",
+        "values": [
+          "5.47",
+          "6.53",
+          "7.08",
+          "7.67",
+          "8.32",
+          "8.98",
+          "10.06"
+        ]
+      },
+      {
+        "label": "135Â°",
+        "values": [
+          "4.92",
+          "6.06",
+          "6.72",
+          "7.21",
+          "7.77",
+          "8.41",
+          "10.15"
+        ]
+      },
+      {
+        "label": "150Â°",
+        "values": [
+          "4.09",
+          "5.15",
+          "6.09",
+          "6.76",
+          "7.21",
+          "7.72",
+          "8.97"
+        ]
+      },
+      {
+        "label": "Run VMG",
+        "values": [
+          "3.54",
+          "4.46",
+          "5.29",
+          "6.02",
+          "6.61",
+          "7.04",
+          "8.01"
+        ]
+      },
+      {
+        "label": "Gybe Angles",
+        "values": [
+          "138.5Â°",
+          "148.0Â°",
+          "151.5Â°",
+          "161.0Â°",
+          "180.0Â°",
+          "180.0Â°",
+          "180.0Â°"
+        ]
+      }
+    ]
+  },
+  "time_allowances_table": {
+    "wind_speeds": [
+      "6 kt",
+      "8 kt",
+      "10 kt",
+      "12 kt",
+      "14 kt",
+      "16 kt",
+      "20 kt"
+    ],
+    "rows": [
+      {
+        "label": "Beat VMG",
+        "values": [
+          "1039.8",
+          "857.8",
+          "763.6",
+          "735.5",
+          "725.2",
+          "723.2",
+          "723.4"
+        ]
+      },
+      {
+        "label": "52Â°",
+        "values": [
+          "688.5",
+          "581.0",
+          "541.7",
+          "529.3",
+          "523.9",
+          "521.2",
+          "516.8"
+        ]
+      },
+      {
+        "label": "60Â°",
+        "values": [
+          "650.3",
+          "562.8",
+          "529.7",
+          "514.4",
+          "507.4",
+          "503.5",
+          "496.9"
+        ]
+      },
+      {
+        "label": "75Â°",
+        "values": [
+          "623.2",
+          "550.8",
+          "519.7",
+          "495.1",
+          "479.7",
+          "472.0",
+          "465.8"
+        ]
+      },
+      {
+        "label": "90Â°",
+        "values": [
+          "630.8",
+          "542.6",
+          "507.3",
+          "487.7",
+          "463.4",
+          "443.8",
+          "427.9"
+        ]
+      },
+      {
+        "label": "110Â°",
+        "values": [
+          "636.0",
+          "542.0",
+          "500.9",
+          "463.8",
+          "433.8",
+          "415.9",
+          "386.9"
+        ]
+      },
+      {
+        "label": "120Â°",
+        "values": [
+          "658.2",
+          "551.6",
+          "508.6",
+          "469.6",
+          "432.7",
+          "400.7",
+          "357.7"
+        ]
+      },
+      {
+        "label": "135Â°",
+        "values": [
+          "732.5",
+          "594.4",
+          "535.3",
+          "499.2",
+          "463.5",
+          "428.2",
+          "354.6"
+        ]
+      },
+      {
+        "label": "150Â°",
+        "values": [
+          "879.6",
+          "698.8",
+          "590.8",
+          "532.6",
+          "499.6",
+          "466.3",
+          "401.3"
+        ]
+      },
+      {
+        "label": "Run VMG",
+        "values": [
+          "1015.6",
+          "806.9",
+          "680.7",
+          "598.5",
+          "544.4",
+          "511.2",
+          "449.6"
+        ]
+      }
+    ],
+    "selected_courses": [
+      {
+        "label": "Windward / Leeward",
+        "values": [
+          "1027.7",
+          "832.3",
+          "722.2",
+          "667.0",
+          "634.8",
+          "617.2",
+          "586.5"
+        ]
+      },
+      {
+        "label": "All purpose",
+        "values": [
+          "788.8",
+          "653.4",
+          "586.1",
+          "550.4",
+          "525.4",
+          "508.7",
+          "481.5"
+        ]
+      }
+    ]
+  },
+  "single_number_scoring": {
+    "caption": "Single Number Scoring Options",
+    "columns": [
+      "Time On Distance",
+      "Time On Time"
+    ],
+    "rows": [
+      {
+        "label": "Windward / Leeward",
+        "values": [
+          "697.1",
+          "0.8607"
+        ]
+      },
+      {
+        "label": "All purpose",
+        "values": [
+          "567.2",
+          "1.0579"
+        ]
+      }
+    ]
+  },
+  "boat_specs": [
+    {
+      "section_title": "HULL AND APPENDAGES (Lightship Trim)",
+      "label": "Class",
+      "value": "Noelex 30"
+    },
+    {
+      "section_title": "HULL AND APPENDAGES (Lightship Trim)",
+      "label": "Measurement",
+      "value": "05/12/2021"
+    },
+    {
+      "section_title": "HULL AND APPENDAGES (Lightship Trim)",
+      "label": "HIN",
+      "value": ""
+    },
+    {
+      "section_title": "HULL AND APPENDAGES (Lightship Trim)",
+      "label": "Plan review",
+      "value": ""
+    },
+    {
+      "section_title": "HULL AND APPENDAGES (Lightship Trim)",
+      "label": "Hull construction",
+      "value": "Solid"
+    },
+    {
+      "section_title": "HULL AND APPENDAGES (Lightship Trim)",
+      "label": "Aramid Hull Core",
+      "value": "No"
+    },
+    {
+      "section_title": "HULL AND APPENDAGES (Lightship Trim)",
+      "label": "Carbon Rudder",
+      "value": "No"
+    },
+    {
+      "section_title": "HULL AND APPENDAGES (Lightship Trim)",
+      "label": "Light stanchions",
+      "value": "No"
+    },
+    {
+      "section_title": "HULL AND APPENDAGES (Lightship Trim)",
+      "label": "Trim tab",
+      "value": "No"
+    },
+    {
+      "section_title": "HULL AND APPENDAGES (Lightship Trim)",
+      "label": "LOA",
+      "value": "9.410"
+    },
+    {
+      "section_title": "HULL AND APPENDAGES (Lightship Trim)",
+      "label": "Max. Beam",
+      "value": "2.940"
+    },
+    {
+      "section_title": "HULL AND APPENDAGES (Lightship Trim)",
+      "label": "Draft",
+      "value": "1.898"
+    },
+    {
+      "section_title": "HULL AND APPENDAGES (Lightship Trim)",
+      "label": "Displacement",
+      "value": "2,175"
+    },
+    {
+      "section_title": "HULL AND APPENDAGES (Lightship Trim)",
+      "label": "Wetted area",
+      "value": "15.66"
+    },
+    {
+      "section_title": "HULL AND APPENDAGES (Lightship Trim)",
+      "label": "IMS L",
+      "value": "8.128"
+    },
+    {
+      "section_title": "HULL AND APPENDAGES (Lightship Trim)",
+      "label": "LSM0",
+      "value": "7.936"
+    },
+    {
+      "section_title": "HULL AND APPENDAGES (Lightship Trim)",
+      "label": "Acc. length",
+      "value": "9.410"
+    },
+    {
+      "section_title": "HULL AND APPENDAGES (Lightship Trim)",
+      "label": "Sink(kg/mm)",
+      "value": "12.48"
+    },
+    {
+      "section_title": "HULL AND APPENDAGES (Lightship Trim)",
+      "label": "VCGD",
+      "value": "0.060"
+    },
+    {
+      "section_title": "HULL AND APPENDAGES (Lightship Trim)",
+      "label": "VCGM",
+      "value": "0.049"
+    },
+    {
+      "section_title": "HULL AND APPENDAGES (Lightship Trim)",
+      "label": "RM Measured(kgÂ·m)",
+      "value": "56.3"
+    },
+    {
+      "section_title": "HULL AND APPENDAGES (Lightship Trim)",
+      "label": "RM Default(kgÂ·m)",
+      "value": "54.7"
+    },
+    {
+      "section_title": "HULL AND APPENDAGES (Lightship Trim)",
+      "label": "Limit of positive stability(Â°)",
+      "value": "N/A"
+    },
+    {
+      "section_title": "HULL AND APPENDAGES (Lightship Trim)",
+      "label": "Stability Index",
+      "value": "N/A"
+    },
+    {
+      "section_title": "PROPELLER",
+      "label": "Propeller Type",
+      "value": "Folding 2 blades"
+    },
+    {
+      "section_title": "PROPELLER",
+      "label": "Installation",
+      "value": "Strut"
+    },
+    {
+      "section_title": "PROPELLER",
+      "label": "Twin screw",
+      "value": "No"
+    },
+    {
+      "section_title": "PROPELLER",
+      "label": "Hydro generator",
+      "value": "No"
+    },
+    {
+      "section_title": "PROPELLER",
+      "label": "PRD",
+      "value": "0.380"
+    },
+    {
+      "section_title": "PROPELLER",
+      "label": "PBW",
+      "value": ""
+    },
+    {
+      "section_title": "PROPELLER",
+      "label": "PIPA",
+      "value": "0.0006"
+    },
+    {
+      "section_title": "PROPELLER",
+      "label": "EDL",
+      "value": ""
+    },
+    {
+      "section_title": "PROPELLER",
+      "label": "ST1",
+      "value": ""
+    },
+    {
+      "section_title": "PROPELLER",
+      "label": "ST2",
+      "value": ""
+    },
+    {
+      "section_title": "PROPELLER",
+      "label": "ST3",
+      "value": ""
+    },
+    {
+      "section_title": "PROPELLER",
+      "label": "ST4",
+      "value": ""
+    },
+    {
+      "section_title": "PROPELLER",
+      "label": "ST5",
+      "value": ""
+    },
+    {
+      "section_title": "RIG",
+      "label": "Forestay tension",
+      "value": "Aft"
+    },
+    {
+      "section_title": "RIG",
+      "label": "Inner stay",
+      "value": "None Fitted"
+    },
+    {
+      "section_title": "RIG",
+      "label": "Carbon mast",
+      "value": "No"
+    },
+    {
+      "section_title": "RIG",
+      "label": "Headsail furler",
+      "value": "No"
+    },
+    {
+      "section_title": "RIG",
+      "label": "Mainsail furler",
+      "value": "No"
+    },
+    {
+      "section_title": "RIG",
+      "label": "Articulated bowsprit",
+      "value": "No"
+    },
+    {
+      "section_title": "RIG",
+      "label": "Non-circular rigging",
+      "value": "No"
+    },
+    {
+      "section_title": "RIG",
+      "label": "Fiber rigging",
+      "value": "No"
+    },
+    {
+      "section_title": "RIG",
+      "label": "Runners/Checkstays",
+      "value": ""
+    },
+    {
+      "section_title": "RIG",
+      "label": "Spreaders",
+      "value": ""
+    },
+    {
+      "section_title": "RIG",
+      "label": "P",
+      "value": "10.750"
+    },
+    {
+      "section_title": "RIG",
+      "label": "IG",
+      "value": "9.040"
+    },
+    {
+      "section_title": "RIG",
+      "label": "ISP",
+      "value": "9.900"
+    },
+    {
+      "section_title": "RIG",
+      "label": "MDT1",
+      "value": "0.100"
+    },
+    {
+      "section_title": "RIG",
+      "label": "MDL1",
+      "value": "0.100"
+    },
+    {
+      "section_title": "RIG",
+      "label": "MDT2",
+      "value": ""
+    },
+    {
+      "section_title": "RIG",
+      "label": "MDL2",
+      "value": ""
+    },
+    {
+      "section_title": "RIG",
+      "label": "TL",
+      "value": "Taper"
+    },
+    {
+      "section_title": "RIG",
+      "label": "MW",
+      "value": ""
+    },
+    {
+      "section_title": "RIG",
+      "label": "GO",
+      "value": ""
+    },
+    {
+      "section_title": "RIG",
+      "label": "E",
+      "value": "4.300"
+    },
+    {
+      "section_title": "RIG",
+      "label": "J",
+      "value": "3.300"
+    },
+    {
+      "section_title": "RIG",
+      "label": "BAS",
+      "value": "1.400"
+    },
+    {
+      "section_title": "RIG",
+      "label": "FSD",
+      "value": ""
+    },
+    {
+      "section_title": "RIG",
+      "label": "SFJ",
+      "value": ""
+    },
+    {
+      "section_title": "RIG",
+      "label": "SPL",
+      "value": "4.200"
+    },
+    {
+      "section_title": "RIG",
+      "label": "WPL",
+      "value": ""
+    },
+    {
+      "section_title": "RIG",
+      "label": "TPS",
+      "value": "4.100"
+    },
+    {
+      "section_title": "RIG",
+      "label": "BD",
+      "value": ""
+    },
+    {
+      "section_title": "RIG",
+      "label": "MWT",
+      "value": ""
+    },
+    {
+      "section_title": "RIG",
+      "label": "MCG",
+      "value": ""
+    },
+    {
+      "section_title": "FLOTATION AND STABILITY",
+      "label": "Calculation method",
+      "value": "VCG estimated"
+    },
+    {
+      "section_title": "FLOTATION AND STABILITY",
+      "label": "Flotation Date",
+      "value": "05/12/2021"
+    },
+    {
+      "section_title": "FLOTATION AND STABILITY",
+      "label": "Measurer",
+      "value": ""
+    },
+    {
+      "section_title": "FLOTATION AND STABILITY",
+      "label": "Comment",
+      "value": ""
+    },
+    {
+      "section_title": "FLOTATION AND STABILITY",
+      "label": "SFFP",
+      "value": "0.644"
+    },
+    {
+      "section_title": "FLOTATION AND STABILITY",
+      "label": "FFM",
+      "value": ""
+    },
+    {
+      "section_title": "FLOTATION AND STABILITY",
+      "label": "FF",
+      "value": "1.113"
+    },
+    {
+      "section_title": "FLOTATION AND STABILITY",
+      "label": "LCFcl",
+      "value": "5.168"
+    },
+    {
+      "section_title": "FLOTATION AND STABILITY",
+      "label": "SG",
+      "value": ""
+    },
+    {
+      "section_title": "FLOTATION AND STABILITY",
+      "label": "SAFP",
+      "value": "8.994"
+    },
+    {
+      "section_title": "FLOTATION AND STABILITY",
+      "label": "FAM",
+      "value": ""
+    },
+    {
+      "section_title": "FLOTATION AND STABILITY",
+      "label": "FA",
+      "value": "0.957"
+    },
+    {
+      "section_title": "FLOTATION AND STABILITY",
+      "label": "LCFsh",
+      "value": "5.361"
+    },
+    {
+      "section_title": "FLOTATION AND STABILITY",
+      "label": "HBI",
+      "value": "1.028"
+    }
+  ],
+  "sails": [
+    {
+      "sail_type": "MAINSAIL",
+      "entries": [
+        {
+          "Id": "1",
+          "MHB": "0.15",
+          "MUW": "",
+          "MTW": "1.72",
+          "MHW": "2.89",
+          "MQW": "3.74",
+          "Area": "28.61",
+          "Meas.Date": "",
+          "Maker": "",
+          "Material": "",
+          "Comment": ""
+        }
+      ]
+    },
+    {
+      "sail_type": "MIZZEN",
+      "entries": []
+    },
+    {
+      "sail_type": "HEADSAIL",
+      "entries": [
+        {
+          "Id": "J1",
+          "HHB": "0.06",
+          "HUW": "0.53",
+          "HTW": "1.05",
+          "HHW": "2.15",
+          "HQW": "3.30",
+          "HLP": "4.55",
+          "HLU": "9.10",
+          "Btn": "No",
+          "Flying": "No",
+          "FT": "Â",
+          "Area": "20.07",
+          "Meas.Date": "",
+          "Maker": "",
+          "Material": "",
+          "Comment": ""
+        }
+      ]
+    },
+    {
+      "sail_type": "SYMMETRIC SPINNAKER",
+      "entries": [
+        {
+          "Id": "1",
+          "SLU": "10.60",
+          "SLE": "10.60",
+          "SL": "10.60",
+          "SHW": "6.10",
+          "SFL": "6.10",
+          "Area": "53.88",
+          "Meas.Date": "",
+          "Maker": "",
+          "Material": "",
+          "Comment": ""
+        }
+      ]
+    },
+    {
+      "sail_type": "ASYMMETRIC SPINNAKER",
+      "entries": [
+        {
+          "Id": "1",
+          "SLU": "11.30",
+          "SLE": "9.10",
+          "SL": "10.20",
+          "SHW": "6.20",
+          "SFL": "6.30",
+          "Ratio": "98%",
+          "Area": "52.87",
+          "Meas.Date": "",
+          "Maker": "",
+          "Material": "",
+          "Comment": ""
+        }
+      ]
+    },
+    {
+      "sail_type": "MIZZEN STAYSAIL",
+      "entries": []
+    },
+    {
+      "sail_type": "QUADRILATERAL",
+      "entries": []
+    }
+  ]
+}
